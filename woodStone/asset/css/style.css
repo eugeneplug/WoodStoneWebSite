@@ -1056,3 +1056,8 @@ footer i:hover {
 
 
 
+@media (max-width:1440px) {
+    #section-1 {
+        transform: scale(0.8);
+    }
+}
