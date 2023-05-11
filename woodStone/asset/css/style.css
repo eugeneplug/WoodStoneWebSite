@@ -1060,4 +1060,16 @@ footer i:hover {
     #section-1 {
         transform: scale(0.8);
     }
+
+    .section-2 {
+        transform: scale(0.8);
+    }
+    .section-4 {
+        transform: scale(0.8);
+    }
+
+    .footer-block {
+        transform: scale(0.8);
+    }
+
 }
