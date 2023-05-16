@@ -54,9 +54,7 @@ nav span:last-child {
     margin-left: 85px;
 }
 
-nav span:last-child a {
-    /*margin-left: 85px;*/
-}
+
 
 /**/
 nav ul {
@@ -64,7 +62,7 @@ nav ul {
 
 }
 
-nav li {}
+
 
 
 #link-1 {
@@ -135,15 +133,7 @@ main {
     
 }
 
-.main-slider-btn p {
-    /*
-    width: 250px;
-    height: 40px;
-    border-right: 1px solid;
-    cursor: pointer;
-    text-align: center;
-    */
-}
+
 #gaz-btn {
     width: 250px;
     height: 40px;
@@ -263,11 +253,6 @@ footer {
     align-items: center;
 }
 
-footer img {
-    /*margin-top: 75px;
-    border-right: solid white;
-    margin-left: 15px;*/
-}
 
 /**/
 
